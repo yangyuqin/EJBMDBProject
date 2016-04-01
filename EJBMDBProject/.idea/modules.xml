@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJBMDBProject.iml" filepath="$PROJECT_DIR$/EJBMDBProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDBModule/MDBModule.iml" filepath="$PROJECT_DIR$/MDBModule/MDBModule.iml" />
+    </modules>
+  </component>
+</project>
+
